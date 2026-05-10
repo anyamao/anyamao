@@ -1,6 +1,6 @@
 ## 💞 About Me  	(*/▽＼*)
 
-Hi, I'm **Anya** — a full-stack developer who believes that great software should be both functional and aesthetically pleasing. I have a deep appreciation for soft, calming designs and often draw my own assets to bring my ideas to life. I usually code near my girlcat Bella, she inspires my designs. 
+Hi, I'm **Anya** — a full-stack developer who believes that great software should be both functional and aesthetically pleasing. I have a deep appreciation for soft, calming designs and draw my own assets to bring my ideas to life. I usually code near my girlcat Bella, she inspires my designs. 
 
 I love working with data — analyzing patterns, building efficient backends, and making sense of information. But I also enjoy crafting the frontend, which is why building full-stack applications solo is my preferred approach.
 
